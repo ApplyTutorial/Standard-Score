@@ -193,6 +193,8 @@ GPA 低的原因多种多样，弥补 GPA 的方法却殊途同归：
    - Ability to express thoughts in speech and writing 听说读写的能力
    - Ability/potential for college teaching 完成授课的可能性
    - Ability to plan and conduct research 进行研究的能力
+   
+* 以上信息来自 ApplyWeb 密歇根大学推荐系统。
 
 **所以除了专业课程的成绩可以反映学术能力，可信教授的可信任的、良好的推荐信也可以充分证明你的学术能力。**
 
