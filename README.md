@@ -185,7 +185,16 @@ GPA 低的原因多种多样，弥补 GPA 的方法却殊途同归：
 
 ### 提交可信、良好的推荐信 ###
 
-除了专业课程的课程可以反映学术能力，可信教授的可信任的、良好的推荐信也可以充分证明你的学术能力。（当面检验、当面考察）
+在推荐系统中，明确要求为申请者的**学术能力**进行评分（专业领域的知识、完成授课的可能性）。
+
+- 为申请人的各方面能力进行打分
+   - Knowledge in chosen field 专业领域的知识
+   - Motivation and perseverance toward goals 对学术目标的追寻动力
+   - Ability to express thoughts in speech and writing 听说读写的能力
+   - Ability/potential for college teaching 完成授课的可能性
+   - Ability to plan and conduct research 进行研究的能力
+
+**所以除了专业课程的成绩可以反映学术能力，可信教授的可信任的、良好的推荐信也可以充分证明你的学术能力。**
 
 - 可信赖的教授
   - 属于该方向的学术圈内、闻过其名。
